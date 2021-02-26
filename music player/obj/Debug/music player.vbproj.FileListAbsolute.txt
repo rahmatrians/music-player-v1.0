@@ -1,0 +1,15 @@
+D:\Music Player V1\music player\music player\bin\Debug\music player.exe.config
+D:\Music Player V1\music player\music player\bin\Debug\music player.exe
+D:\Music Player V1\music player\music player\bin\Debug\music player.pdb
+D:\Music Player V1\music player\music player\bin\Debug\music player.xml
+D:\Music Player V1\music player\music player\bin\Debug\Interop.WMPLib.dll
+D:\Music Player V1\music player\music player\bin\Debug\AxInterop.WMPLib.dll
+D:\Music Player V1\music player\music player\obj\Debug\Interop.WMPLib.dll
+D:\Music Player V1\music player\music player\obj\Debug\AxInterop.WMPLib.dll
+D:\Music Player V1\music player\music player\obj\Debug\music player.vbproj.ResolveComReference.cache
+D:\Music Player V1\music player\music player\obj\Debug\music_player.Form1.resources
+D:\Music Player V1\music player\music player\obj\Debug\music_player.Resources.resources
+D:\Music Player V1\music player\music player\obj\Debug\music player.vbproj.GenerateResource.Cache
+D:\Music Player V1\music player\music player\obj\Debug\music player.exe
+D:\Music Player V1\music player\music player\obj\Debug\music player.xml
+D:\Music Player V1\music player\music player\obj\Debug\music player.pdb
